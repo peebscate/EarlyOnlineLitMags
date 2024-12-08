@@ -17,8 +17,12 @@ To collect data about online magazines I first searched my own memory and the me
 
 # Data Exploration
 
+He do the data in different voices. What do they say? 
+
 ![image](https://github.com/user-attachments/assets/f16ca651-f6d9-466e-a200-192f8b6ac8c8)
 
 # Tools Used 
 
 # Possible Futures
+
+Next steps for this project
