@@ -22,7 +22,7 @@ To collect data about online magazines I first searched my own memory and the me
 
 In addition to reaching out to individuals and searching through lists on the Wayback Machine, the following sources have been helpful in both identifying fruitful places to look for sources online and describing the ethos of this era as online publications transitioned from rogue experiments to acceptable, mainstream outlets for publishing work.
 
-Beasley, Sandra. “From Page to Pixels: The Evolution of Online Journals.” Poets & Writers, 1 May 2009, (https://www.pw.org/content/page_pixels_evolution_online_journals). 
+Beasley, Sandra. “From Page to Pixels: The Evolution of Online Journals.” Poets & Writers, 1 May 2009, https://www.pw.org/content/page_pixels_evolution_online_journals. 
 
 Birkerts, Sven. “The Little Magazine in the World of Big Data.” Sewanee Review, vol. 123, no. 2, Mar. 2015, pp. 224–31. DOI.org (Crossref), (https://doi.org/10.1353/sew.2015.0066). 
 
@@ -30,11 +30,11 @@ Butler, Blake. “Publishing Field Report 3 – Online Publishing (Part 1).” D
 
 Hurliman, Lesha, and Numsiri C. Kunakemakorn. Withoutcovers : //Literary_magazines@the_digital_edge. NotaBell Books, 2002.
 
-Kurkowski, Travis. "Some Notes on the History of the Literary Magazine." Mississippi Review, Fall, 2008, Vol. 36, No. 3, Literary Magazines (Fall, 2008), pp. 231-243. (https://www.jstor.org/stable/20132855).
+Kurkowski, Travis. "Some Notes on the History of the Literary Magazine." Mississippi Review, Fall, 2008, Vol. 36, No. 3, Literary Magazines (Fall, 2008), pp. 231-243. https://www.jstor.org/stable/20132855.
 
 Kurkowski, Travis et al. Literary Publishing in the Twenty-First Century. Milkweeed Editions, 2016.
 
-Monson, Ander. “This Being 2015.” The Little Magazine in Contemporary America, edited by Ian Morris and Joanne Diaz, University of Chicago Press, 2015, pp. 130–40. www.degruyter.com, (https://doi.org/10.7208/9780226240695-015).
+Monson, Ander. “This Being 2015.” The Little Magazine in Contemporary America, edited by Ian Morris and Joanne Diaz, University of Chicago Press, 2015, pp. 130–40. www.degruyter.com, https://doi.org/10.7208/9780226240695-015.
 
 
 # Data Exploration
