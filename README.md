@@ -16,7 +16,7 @@ Many libraries collect zines and little magazines in analog form, yet none have 
 
 # Data Collection
 
-To collect data about online magazines I first searched my own memory and the memory of a few friends to source the beginnings of my publication list. I then looked into a couple of publications and essays that reference early online magazines, which led to doing a deeper dive into the Internet Archive's Wayback Machine. I also reached out to the literary non-profit CLMP-the Council of Literary Magazines and Presses-which has been publishing directories of small press publications since 19XX, but did not hear back from them at the time of this writing. In the interest of time, I decided to cut my first sample off at 45 (it became 46 when I added the Mississippi Review Online because it has been cited as the first literary journal to move publishing online in 1995, though it continued to publish a print edition as well). When I (re)discovered that "link lists" were a conventional feature of early websites, I began to follow the links and found more and more publications, which can be incorporated into a future iteration of this project. Since there aren't any extant datasets that compile these titles, my data collection was highly exploratory--a challenging but enjoyable part of the project that also highlights the dispersed nature of these sources. 
+To collect data about online magazines I first searched my own memory and the memory of a few friends to source the beginnings of my publication list. I then looked into a couple of publications and essays that reference early online magazines, which led to doing a deeper dive into the Internet Archive's Wayback Machine. I also reached out to the literary non-profit CLMP-the Council of Literary Magazines and Presses-which has been publishing directories of small press publications since 19XX, but did not hear back from them at the time of this writing. In the interest of time, I decided to cut my first sample off at 45 (it became 46 when I added the Mississippi Review Online because it has been cited as the first literary journal to move publishing online in 1995, though it continued to publish a print edition as well). When I (re)discovered that "link lists" were a conventional feature of early websites, I began to follow the links and found so many more publications, which can be incorporated into a future iteration of this project. Since there aren't any extant datasets that compile these titles, my data collection was highly exploratory--a challenging but enjoyable part of the project that also highlights the dispersed nature of these sources. 
 
 # Sources Consulted When Collecting Data
 
@@ -48,13 +48,13 @@ Note: For the purposes of this chart, publications with an end date of 2025 are 
 
 # Tools Used 
 
- - Excel
- - Datawrapper
- - Web Recorder
- - Google Sheets
- - Canva
- - Wayback Machine
+ * Excel
+ * Datawrapper
+ * Web Recorder
+ * Google Sheets
+ * Canva
+ * Wayback Machine
 
 # Possible Futures
 
-Next steps for this project
+In the next phase of this project, I would like to create a simple relational database to manage data and to refine categories of information collected. Other areas of exploration to pursue in the future include: networks and connections between editors, authors, and magazines; building a more visually compelling public-facing site that provides more access to the journals themselves; oral history interviews with editors; a literature review about early digital publishing; create Webrecorder preservation copies of journals and develop preservation plan for assets; develop cross-institutional and library partnerships and pursue grant funding. 
