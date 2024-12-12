@@ -4,7 +4,7 @@
 
 This project explores a sample of 46 independent born-digital literary magazines that began publishing at the turn of the 21st century. This is an attempt to begin a longer-term project that will collect, preserve, and document this era of literary publishing in an effort to provide centralized access to readers and researchers. 
 
-The data collected reflects a small pool of examples from the early days of online publishing. Around 1995 literary magazines began to appear in digital incarnations (often referred to contemporaneously as "electronic journals" or "e-zines"). The Mississippi Review Online is credited with being the first such "little magazine" to make the move online, soon followed by the literary magazine hosting site, Web Del Sol and others. The impetus for this project came about because, in recent years, casual web-searches for some of these publications returned "404 not found" notices or strange commercial sites. While some publications, such as [DIAGRAM]([https://thediagram.com/) and [2 River](https://2river.org/), have continued for decades, many magazines that began publishing in the late 1990s and early-2000s are only available to view via the [Internet Archive's Wayback Machine](https://web.archive.org/)--an incredible resource, but as any archivist or digital librarian will tell you: saving things in one place is a risky preservation strategy. 
+The data collected reflects a small pool of examples from the early days of online publishing. Around 1995 literary magazines began to appear in digital incarnations (often referred to contemporaneously as "electronic journals" or "e-zines"). The Mississippi Review Online is credited with being the first such "little magazine" to make the move online, soon followed by the literary magazine hosting site, Web Del Sol and others. The impetus for this project came about because, in recent years, casual web-searches for some of these publications returned "404 not found" notices or strange commercial sites. While some publications, such as [DIAGRAM](https://thediagram.com/) and [2 River](https://2river.org/), have continued for decades, many magazines that began publishing in the late 1990s and early-2000s are only available to view via the [Internet Archive's Wayback Machine](https://web.archive.org/)--an incredible resource, but as any archivist or digital librarian will tell you: saving things in one place is a risky preservation strategy. 
 
 
 # Little Magazines
@@ -22,19 +22,19 @@ To collect data about online magazines I first searched my own memory and the me
 
 In addition to reaching out to individuals and searching through lists on the Wayback Machine, the following sources have been helpful in both identifying fruitful places to look for sources online and describing the ethos of this era as online publications transitioned from rogue experiments to acceptable, mainstream outlets for publishing work.
 
-Beasley, Sandra. “From Page to Pixels: The Evolution of Online Journals.” Poets & Writers, 1 May 2009, https://www.pw.org/content/page_pixels_evolution_online_journals. 
+Beasley, Sandra. “From Page to Pixels: The Evolution of Online Journals.” Poets & Writers, 1 May 2009, (https://www.pw.org/content/page_pixels_evolution_online_journals). 
 
-Birkerts, Sven. “The Little Magazine in the World of Big Data.” Sewanee Review, vol. 123, no. 2, Mar. 2015, pp. 224–31. DOI.org (Crossref), https://doi.org/10.1353/sew.2015.0066. 
+Birkerts, Sven. “The Little Magazine in the World of Big Data.” Sewanee Review, vol. 123, no. 2, Mar. 2015, pp. 224–31. DOI.org (Crossref), (https://doi.org/10.1353/sew.2015.0066). 
 
-Butler, Blake. “Publishing Field Report 3 – Online Publishing (Part 1).” Dividual, 10 June 2024, https://blakebutler.substack.com/p/publishing-field-report-3-online.
+Butler, Blake. “Publishing Field Report 3 – Online Publishing (Part 1).” Dividual, 10 June 2024, (https://blakebutler.substack.com/p/publishing-field-report-3-online).
 
 Hurliman, Lesha, and Numsiri C. Kunakemakorn. Withoutcovers : //Literary_magazines@the_digital_edge. NotaBell Books, 2002.
 
-Kurkowski, Travis. "Some Notes on the History of the Literary Magazine." Mississippi Review, Fall, 2008, Vol. 36, No. 3, Literary Magazines (Fall, 2008), pp. 231-243. https://www.jstor.org/stable/20132855.
+Kurkowski, Travis. "Some Notes on the History of the Literary Magazine." Mississippi Review, Fall, 2008, Vol. 36, No. 3, Literary Magazines (Fall, 2008), pp. 231-243. (https://www.jstor.org/stable/20132855).
 
 Kurkowski, Travis et al. Literary Publishing in the Twenty-First Century. Milkweeed Editions, 2016.
 
-Monson, Ander. “This Being 2015.” The Little Magazine in Contemporary America, edited by Ian Morris and Joanne Diaz, University of Chicago Press, 2015, pp. 130–40. www.degruyter.com, https://doi.org/10.7208/9780226240695-015.
+Monson, Ander. “This Being 2015.” The Little Magazine in Contemporary America, edited by Ian Morris and Joanne Diaz, University of Chicago Press, 2015, pp. 130–40. www.degruyter.com, (https://doi.org/10.7208/9780226240695-015).
 
 
 # Data Exploration
@@ -45,6 +45,18 @@ One question I wrestled with while working with the data sample was "What is a u
 
 Note: For the purposes of this chart, publications with an end date of 2025 are still publishing new issues.
 * asterisk indicates that magazine is part of Web Del Sol, an early platform that served as a hosting site for literary publications. 
+
+Of the 46 publications included in the sample:
+
+* 15 are still publishing
+  
+* 31 are no longer publishing
+  
+* Of the 31 publications that are no longer publishing, 16 are somewhat accessible, or are only accessible via the Wayback Machine, and 15 are still accessible via their original url.
+
+* Among the 15 journals that are still publishing, one is NOT accessible via its url ([The Mississippi Review Online](https://sites.usm.edu/mississippi-review/) ) and can only be accessed via the Wayback Machine. It appears that, for now, the MR is only publishing print editions.  
+
+* 1999 and 2000 are the years that show the largest number of new magazines created in this sample, indicating a period in which the means and methods of production were becoming more available to people outside of academia and computer science fields.  
 
 # Tools Used 
 
